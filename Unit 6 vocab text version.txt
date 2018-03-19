@@ -1,0 +1,1 @@
+Per 3 Honors JavaHonors JavaPeriod 3Unit 6cohesiveCoupling Ð bad stuff1. composition2. has-a relationship3. precondition4. postcondition5. static field6. static method7. instance method8. class invariant9. scope of a variable10. shadowing11. toString method12. local variable

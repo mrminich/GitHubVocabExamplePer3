@@ -14,16 +14,19 @@ Unit 6
 8. static method
 9. instance method
 10. class invariant
-11. scope of a variable
-12. shadowing
-13. toString method
-14. local variable
+11. scope of a variable - How broad of the section of code the varible can be seen (global compared to private).
+12. shadowing - A varible with a higher scope that "shadows" or overlaps a varible with a lower scope.
+13. toString method - ToString is used to return a string value of a object.
+14. local variable - Local Varibles are varible declared inside the body of a method that will only be used inside that method
+it is declared in.
 
 Unit 7
-1. ArrayList
-2. size method
-3. get method
-4. the overloaded add method
-5. remove method
-6. key
+1. ArrayList - An array list is a array that can change its length as needed, unlike a normal array that cannot change its 
+length.
+2. size method - The size method returns the value of stored varibles, unlike the length method htat returns the total amount
+the object can hold.
+3. get method - Used to retrieve a varible from a class, (like our accessor methods).
+4. the overloaded add method - used to add a value to end end of a list. 
+5. remove method - Is a default java method used to remove values from a ceratin index in a list.
+6. key - The key is typcally a boolean varible used to end a loop. Like a isFound varible in a while loop.
 7. flag variable

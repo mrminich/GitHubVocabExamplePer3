@@ -3,17 +3,17 @@ Java
 Period 3
 Units 6 & 7
 
-Unit 6
-1. cohesive
-2. coupling
-3. composition
-4. has-a relationship
-5. precondition
-6. postcondition
-7. static field
-8. static method
-9. instance method
-10. class invariant
+Unit 6 - Steven P
+1. Cohesive – A cohesive class is a class that is created with a single, well focused purpose. It remains simple, and does not include bits of code that do not relate to the purpose of the class.
+2. Coupling – Coupling refers to the degree in which classes know about and use each-other. The more they use the other class, the more “coupled” they are.
+3. Composition – Composition is a “has-a” relationship, meaning it owns something. This is different from inheritance, which is an “is-a” relationship.
+4. has-a relationship – A has-a relationship is a relationship where you include an instance of another class. It’s useful because it’s more compatible with other code than extending the class.
+5. precondition – A precondition is an instruction prior to writing code that must be followed. This is usually a limit, or in the case of learning, a requirement of using certain code from the current unit.
+6. postcondition – A postcondition is a condition that must be met, after running a class. This is usually the outcome of running the class, a way to check if the code works.
+7. static field – A static field is when you use the static keyword in order to make a method belong to a class, rather than belonging to an instance of the class. This is used to share identical fields between many objects.
+8. static method – a static method is a method that belongs to the class, and not to the object of a class. This can be used to avoid having to create the object of the class.
+9. instance method – An instance method is a regular method that can be found in nearly every class. It’s a method that belongs to every object created by that class.
+10. class invariant – A class invariant is a property that holds for all instances of a class, regardless of the other code. It means something that doesn’t change, and is therefore static.
 11. scope of a variable - How broad of the section of code the varible can be seen (global compared to private).
 12. shadowing - A varible with a higher scope that "shadows" or overlaps a varible with a lower scope.
 13. toString method - ToString is used to return a string value of a object.

@@ -29,6 +29,6 @@ the object can hold.
 4. the overloaded add method - used to add a value to the end of a list. 
 5. remove method - Is a default java method used to remove values from a certain index in a list.
 6. key - The key is typically a Boolean variable used to end a loop. Like an isFound variable in a while loop.
-7. flag variable - A flag variable is usually a boolean (true/false) variable that is used to control (terminate) an indeterminate loop. 
+7. flag variable - A flag variable is usually a boolean (true/false) variable that is used to control (terminate) an indeterminate loop. They are useful in search algorithms, to signal when the target is found.
 
 
